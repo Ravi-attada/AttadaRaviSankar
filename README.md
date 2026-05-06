@@ -1,5 +1,4 @@
-# AttadaRaviSankar
-👋 Hi there, I'm Tumbali Venkata Viswas — a Machine Learning Engineer
+# 👋 Hi there, I'm Ravi Sankar — a Machine Learning Engineer
 🚀 Passionate about Building Scalable AI Systems
 I am a Data Science postgraduate student with strong experience in Machine Learning, Deep Learning, NLP, and Generative AI, focused on building production-ready AI systems.
 
